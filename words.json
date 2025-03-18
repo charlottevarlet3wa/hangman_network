@@ -65,7 +65,7 @@
       "hint": "An event where two devices transmit data simultaneously on the same network segment, causing interference."
     },
     {
-      "word": "MAC/PORT TABLE",
+      "word": "MAC PORT TABLE",
       "hint": "A switch's internal table that maps MAC addresses to specific ports."
     },
     {
