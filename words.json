@@ -1,0 +1,124 @@
+{
+  "words": [
+    {
+      "word": "NETWORK",
+      "hint": "A system of interconnected computers and devices that communicate to share resources and data."
+    },
+    {
+      "word": "HOST",
+      "hint": "A device connected to a network that can send or receive data."
+    },
+    {
+      "word": "HUB",
+      "hint": "A basic networking device that connects multiple devices in a network and transmits data to all ports."
+    },
+    {
+      "word": "SWITCH",
+      "hint": "A networking device that directs data packets to specific devices within a network."
+    },
+    {
+      "word": "ROUTER",
+      "hint": "A device that forwards data between different networks and manages network traffic."
+    },
+    {
+      "word": "ACCESS POINT",
+      "hint": "A device that provides wireless connectivity to a wired network."
+    },
+    {
+      "word": "MAC ADDRESS",
+      "hint": "A unique identifier assigned to a network interface controller for communication within a network."
+    },
+    {
+      "word": "IP ADDRESS",
+      "hint": "A numerical label assigned to each device connected to a network for identification and communication."
+    },
+    {
+      "word": "BROADCAST",
+      "hint": "A method of transmitting data to all devices within a network segment."
+    },
+    {
+      "word": "UNICAST",
+      "hint": "A communication method where data is sent from one device to a specific recipient."
+    },
+    {
+      "word": "ETHERNET",
+      "hint": "A type of network cable used to connect devices in wired networks."
+    },
+    {
+      "word": "OPTICAL FIBER",
+      "hint": "A high-speed transmission medium that uses light to carry data over long distances."
+    },
+    {
+      "word": "WIFI",
+      "hint": "A wireless networking technology that allows devices to connect to the internet or a local network."
+    },
+    {
+      "word": "BLUETOOTH",
+      "hint": "A short-range wireless technology for connecting devices."
+    },
+    {
+      "word": "TWISTED PAIR",
+      "hint": "A type of network cable consisting of pairs of twisted wires to reduce interference."
+    },
+    {
+      "word": "COLLISION",
+      "hint": "An event where two devices transmit data simultaneously on the same network segment, causing interference."
+    },
+    {
+      "word": "MAC/PORT TABLE",
+      "hint": "A switch's internal table that maps MAC addresses to specific ports."
+    },
+    {
+      "word": "FRAME",
+      "hint": "A structured unit of data transmission in a network."
+    },
+    {
+      "word": "TOPOLOGY",
+      "hint": "The arrangement of different network elements and their connections."
+    },
+    {
+      "word": "TTL",
+      "hint": "A value in data packets that limits their lifespan in a network."
+    },
+    {
+      "word": "ADDRESS RESOLUTION PROTOCOL",
+      "hint": "A protocol used to map IP addresses to MAC addresses."
+    },
+    {
+      "word": "IPV4",
+      "hint": "The fourth version of the Internet Protocol, using 32-bit addresses."
+    },
+    {
+      "word": "SUBNET MASK",
+      "hint": "A numerical mask used to divide an IP address into network and host parts."
+    },
+    {
+      "word": "CLASSLESS INTER DOMAIN ROUTING",
+      "hint": "A method for allocating IP addresses and managing routing."
+    },
+    {
+      "word": "PRIVATE ADDRESS",
+      "hint": "An IP address used within private networks, not routable on the internet."
+    },
+    {
+      "word": "PUBLIC ADDRESS",
+      "hint": "An IP address that is unique across the internet."
+    },
+    {
+      "word": "LOOPBACK",
+      "hint": "An IP address used to test network applications locally."
+    },
+    {
+      "word": "DYNAMIC HOST CONFIGURATION PROTOCOL SERVER",
+      "hint": "A server that dynamically assigns IP addresses to devices on a network."
+    },
+    {
+      "word": "DOMAIN NAME SYSTEM SERVER",
+      "hint": "A server that translates domain names into IP addresses."
+    },
+    {
+      "word": "ENCAPSULATION",
+      "hint": "The process of adding headers and footers to data for network transmission."
+    }
+  ]
+}

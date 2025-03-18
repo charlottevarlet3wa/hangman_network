@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hangman Game</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div id="game">
+        <div id="ground">
+            <div id="tree-2"></div>
+            <div id="hero">
+                <div id="hero-bar-container">
+                    <div id="hero-bar"></div>
+                </div>
+            </div>
+            <div id="enemy">
+                <div id="enemy-bar-container">
+                    <div id="enemy-bar"></div>
+                </div>
+            </div>
+        </div>
+        <div class="word-container">
+            <p id="wordToGuess">_ _ _ _ _</p>
+            <button id="hint-btn" onclick=toggleHint()>?</button>
+        </div>
+    <div id="keyboard"></div>
+    <div id="hint-container" style="display: none;">
+        <b>Hint : </b><span id="hint"></span>
+    </div>
+    <p><span id="wrongGuesses"></span></p>
+    <p id="status"></p>
+    <button id="nextBtn" style="display:none;">&#x27A1;</button>
+    <p id="score">0/0</p>
+    </div>
+    <script src="game.js"></script>
+</body>
+</html>
